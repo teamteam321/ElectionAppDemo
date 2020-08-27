@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Election</string>
+    <string name="ElectionCenter">สำนักงานคณะกรรมการการเลือตั้ง</string>
+    <string name="Countdown_text">Count Down to Election Day</string>
+    <string name="election_commission_of_thailand">ELECTION COMMISSION OF THAILAND</string>
+    <string name="next">NEXT</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="days">Days</string>
+    <string name="text_24">24</string>
+    <string name="text_60">60</string>
+    <string name="text_365">365</string>
+    <string name="vote_icon">vote_icon</string>
+</resources>
