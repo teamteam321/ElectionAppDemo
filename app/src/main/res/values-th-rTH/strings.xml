@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Election</string>
-    <string name="ElectionCenter">สำนักงานคณะกรรมการการเลือตั้ง</string>
-    <string name="Countdown_text">นับถอยหลังวันเลืกตั้ง</string>
+    <string name="ElectionCenter">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="Countdown_text">นับถอยหลังวันเลืกกตั้ง</string>
     <string name="election_commission_of_thailand">ELECTION COMMISSION OF THAILAND</string>
     <string name="next">ถัดไป</string>
     <string name="hours">ชั่วโมง</string>

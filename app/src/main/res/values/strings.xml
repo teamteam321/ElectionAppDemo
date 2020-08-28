@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Election</string>
-    <string name="ElectionCenter">สำนักงานคณะกรรมการการเลือตั้ง</string>
+    <string name="ElectionCenter">สำนักงานคณะกรรมการการเลือกตั้ง</string>
     <string name="Countdown_text">Count Down to Election Day</string>
     <string name="election_commission_of_thailand">ELECTION COMMISSION OF THAILAND</string>
     <string name="next">NEXT</string>
